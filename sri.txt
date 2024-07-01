@@ -1,7 +1,10 @@
 hii
   am santoshi from hyderabad
 
-am learning mern
+
+ am learning github concepts
+
   am learning devops
+  end
 
 
