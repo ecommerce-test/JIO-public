@@ -4,7 +4,8 @@ hii
 
  am learning github concepts
 
-  am learning devops
-  end
+ till now i hv learned linux commands 
+
+ after this i vl learn shell scripting
 
 
