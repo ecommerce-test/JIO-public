@@ -6,4 +6,4 @@ todays date
   
  cpu information
 
- updatr
+ update
