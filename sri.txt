@@ -9,4 +9,4 @@ hii
 
  after this i vl learn shell scripting
 
-vo continue my learning
+vl continue my learning
