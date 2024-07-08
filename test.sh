@@ -1,4 +1,4 @@
-
+echo "few linux commands"
 
 todays date
 
